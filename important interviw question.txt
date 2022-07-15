@@ -1,0 +1,10 @@
+q:) What are closures? What are the applications for it? write a code for currying.
+ans: https://drive.google.com/file/d/1E3w_bOTpj5JrY9xJuGhqjDrVqPGDpFUA/view?usp=sharing
+q:) What are the lifecycle phases in React? Explain with hooks
+ans: https://drive.google.com/file/d/1gsnvl1rCPurOo6TJmipf_VuHIPxxS_VI/view?usp=sharing
+q:) What is Virtual DOM? How does it work? Explain in brief with examples
+ans) https://drive.google.com/file/d/1o8_itn5FdHTuELr1O7PR7r-wKa_sMraO/view?usp=sharing
+q:) What are promises? Explain in brief, explain with an example of a sleep function that executes after sometime
+ans: https://drive.google.com/file/d/1gP_uHtK0sZZjVLi-WVmNf71z-2Cgu66x/view?usp=sharing
+q:) What is an event loop? Explain in brief, explain with examples.
+ans: https://drive.google.com/file/d/1DS99UgRmNZAKXC-uOSQjFilooDn6hSmX/view?usp=sharing
