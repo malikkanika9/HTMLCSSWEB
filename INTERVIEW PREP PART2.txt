@@ -1,0 +1,16 @@
+q:) What is Flexbox vs Grid system?
+ans https://drive.google.com/file/d/1QsX8QKEFQI0VEJMHdqZ-xWMriWAYec4k/view?usp=sharing
+q:) what are async and await
+ans: https://drive.google.com/file/d/1WKERkNV2Z_dqwJFUK-jETRLjNzLzsesW/view?usp=sharing
+q:) what are the lifecycle hooks?
+ans:  https://drive.google.com/file/d/1gsnvl1rCPurOo6TJmipf_VuHIPxxS_VI/view?usp=sharing
+q:) Explain the difference between var, let and const?
+ans: https://drive.google.com/file/d/1cgKquDuXQEKBTqJ3tatztUhoY_oga1i8/view?usp=sharing
+q:) What is JSX? What is babel?
+ans: https://drive.google.com/file/d/1g71uaDS1acsdnlCGSyjQPapTBnH0m38J/view?usp=sharing
+q:) Explain Redux
+ans: https://drive.google.com/file/d/1jmwf0PJOUyC8XBJaRXs4B-hl48CXky9w/view?usp=sharing
+q:) What are the different types of Authentication?
+ans :https://drive.google.com/file/d/1QRvxw98idh_5r8K9Eipdq12ohHOgwCvC/view?usp=sharing
+q:)What is the difference between Authorization vs Authentication?
+ans: https://drive.google.com/file/d/1QRvxw98idh_5r8K9Eipdq12ohHOgwCvC/view?usp=sharing
